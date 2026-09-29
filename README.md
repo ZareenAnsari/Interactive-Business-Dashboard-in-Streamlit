@@ -10,14 +10,14 @@ This dashboard lets users explore retail performance data interactively — filt
 
 ## Highlights
 
-- 📊 Interactive filtering by Region, Category, and Sub-Category
-- 💰 Real-time KPI metrics (Total Sales, Total Profit)
-- 📈 Sales breakdown by region (bar chart)
-- 📉 Profit breakdown by category (bar chart)
-- 🏆 Top 5 customers by sales (bar chart)
-- 🧹 Automated data cleaning (column normalization, duplicate removal, null handling)
-- 🔍 Dynamic column detection for flexible dataset compatibility
-- 🗂️ Live filtered dataset table view
+-  Interactive filtering by Region, Category, and Sub-Category
+-  Real-time KPI metrics (Total Sales, Total Profit)
+-  Sales breakdown by region (bar chart)
+-  Profit breakdown by category (bar chart)
+-  Top 5 customers by sales (bar chart)
+-  Automated data cleaning (column normalization, duplicate removal, null handling)
+-  Dynamic column detection for flexible dataset compatibility
+-  Live filtered dataset table view
 
 ## Tech Stack
 
